@@ -26,7 +26,7 @@ super クラスが変わったからと言って、サブクラスが毎回コ�
 ### SELF問題
 なにか別のフレームワークがある場合、Wrapper を通らずに自分自身を返してしまう。
 
-論文: SELP Problem.pdf
+論文: SELF Problem.pdf
 
 `is-a`: 'イズ ア' と読む。(英語の、a name みたいなやつ。)
 
